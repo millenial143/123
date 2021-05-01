@@ -1,6 +1,6 @@
 # Retro wave анимация на css + svg
 
-* https://millenial143.github.io/retrowave/
+* https://millenial143.github.io/Retro-wave-animation/
 
 
 
